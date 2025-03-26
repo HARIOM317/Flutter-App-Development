@@ -85,7 +85,7 @@ We welcome contributions! To contribute:
 ---
 
 ## 📜 License
-This repository is licensed under the **(MIT License)[LICENSE]**. You are free to use and modify the content with proper attribution.
+This repository is licensed under the **[MIT License](LICENSE)**. You are free to use and modify the content with proper attribution.
 
 ---
 
